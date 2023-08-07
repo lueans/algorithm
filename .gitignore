@@ -1,0 +1,7 @@
+# Default ignored files
+.idea/*
+build/*
+dist/*
+solotools.egg-info
+solotools.egg-info/*
+solotools/__pycache__/*
